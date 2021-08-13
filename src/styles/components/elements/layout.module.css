@@ -8,8 +8,8 @@
   justify-content: center;
 }
 .content {
-  max-width: 600px;
+  max-width: 578px;
   width: 100%;
   height: 100%;
-  background-image: linear-gradient(#ffc, #fcc, #cff);
+  border: 1px solid #aaa;
 }
